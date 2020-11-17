@@ -1,0 +1,20 @@
+.category{
+  width: 50%;
+}
+
+.title-category{
+  font-family: 'inter-bold';
+  font-size: 25px;
+  color: black;
+}
+
+.text-category{
+  font-family: 'inter-regular';
+  font-size: 14px;
+  color: black;
+  line-height: 1.2;
+}
+
+.products{
+  width: 95%;
+}

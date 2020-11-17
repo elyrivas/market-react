@@ -1,0 +1,91 @@
+.name{
+  font-family: 'inter-bold';
+  font-size: 16px;
+}
+
+.price{
+  font-family: 'inter-regular';
+  font-size: 14px;
+}
+
+.total{
+  font-family: 'inter-bold';
+  font-size: 18px;
+}
+
+.title-cart{
+  font-family: 'inter-bold';
+  font-size: 18px;
+  color: black;
+}
+
+.cart{
+  color: black;
+}
+
+.card-alt{
+  height: 80px;
+}
+
+.img-cart{
+  width: 100px;
+  height: 80px;
+}
+
+.cantidad{
+  text-align: center;
+  font-family: 'inter-medium';
+  font-size: 15px;
+}
+
+.boton{
+  background-color: transparent;
+  border: none;
+  color: gray;
+}
+
+/* .info{
+  height: 300px;
+} */
+
+.subtitle{
+  font-family: 'inter-bold';
+  font-size: 15px;
+  margin-left: 2rem;
+  margin-top: 0.7rem;
+}
+
+.card-info{
+  font-family:'inter-regular';
+  font-size: 14px;
+  margin-left: 3rem;
+  margin-top: 0.3rem;
+}
+
+.boton-pagar{
+  margin-left: 3rem;
+  margin-top: 1rem;
+  margin-bottom: 0.7rem;
+}
+
+.aviso{
+  font-family: 'inter-bold';
+  font-size: 14px;
+}
+
+.aviso>a{
+  text-decoration: none;
+  color: #ff8200;
+}
+
+.boton-oper {
+  font-size: 0.90rem !important;
+}
+
+.remove {
+  font-size: 1.2rem !important;
+}
+
+.boton:focus {
+  outline: none;
+}

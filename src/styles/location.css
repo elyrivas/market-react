@@ -1,0 +1,23 @@
+.img-points-map{
+  height: 150px;
+  position: relative;
+  left: 200px;
+  /* top: 200px;
+  right: 50px; */
+}
+
+.cuadrado-map {
+  position: relative;
+  width: 50px;
+  height: 50px;
+  border-top: 3px solid #ff8300;
+  border-left: 3px solid #ff8300;
+  bottom: 460px;
+  right: 10px;
+}
+
+.map{
+  background-color: #6c757d;
+  height: 450px;
+  width: 500px;
+}

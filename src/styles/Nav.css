@@ -1,0 +1,29 @@
+.link{
+  color: white;
+  text-decoration: none;
+  font-family: 'inter-medium';
+  font-size: 15px;
+}
+
+.link:hover{
+  font-size: 15.2px;
+  color: #e6e6e6;
+  text-decoration: none;
+}
+
+.d-active{
+  border-bottom: 3px solid #ff8200;
+}
+
+.line{
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
+  border: 0;
+  border-top: 2px solid rgb(204 197 197 / 20%) !important;
+}
+
+.direccion, .contact, .cart{
+  color: white; 
+  font-family: 'inter-regular';
+  font-size: 14px;
+}
